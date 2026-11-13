@@ -1,0 +1,5 @@
+Fabric==3.2.3
+invoke==2.2.1
+openpyxl==3.1.5
+paramiko==5.1.0
+python-dotenv==1.2.4

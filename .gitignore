@@ -1,0 +1,6 @@
+.idea/
+__pycache__/
+.venv/
+.env
+reports/
+departments.json
